@@ -2,6 +2,7 @@
 vetor = []
 v2 = []
 i=0
+
 while True:
     print("1 - Adicionar um número ao vetor.\n2 - Remover um número do vetor.\n3 - Exibir o vetor completo.\n4 - Encontrar e exibir o maior e o menor número no vetor.\n5 - Calcular e exibir a soma de todos os números no vetor.\n6 - Sair.\n")
     op = int(input("Escolha uma opção: "))
